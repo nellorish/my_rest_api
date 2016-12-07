@@ -3,4 +3,3 @@
  */
 public class GitSampleTesting {
 }
-git
